@@ -119,6 +119,14 @@ news-service-6b85f99987-dcplv         1/1     Running   0          20s
 postgres-0                            1/1     Running   0          48m
 redis-58c4799ccc-qhv2z                1/1     Running   0          72m
 ```
+### [Contact ]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com) 
 
-## Copyright
-- Author: **Nho Luong (email: luonguongutnho@hotmail.com)**
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c) 2024
