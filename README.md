@@ -4,7 +4,9 @@ Regarding the system, use Nodejs Molecular as an example, this is a Framework us
 ## Requirements
    * A [GitHub repositories](https://github.com/nholuongut/microservices) 
    * A [Docker Hub Images](https://hub.docker.com/) 
-   * A [Nodejs Molecular](https://moleculer.services/docs/0.14/) 
+   * A [Nodejs Molecular](https://moleculer.services/docs/0.14/)
+     
+   * ### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
   
  ***Note***. Here I am defaulting you have installed docker, kubernetes, kubectl, NGINX Ingress on your system server and have gone internet.
    
@@ -126,6 +128,7 @@ redis-58c4799ccc-qhv2z                1/1     Running   0          72m
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
 * [Email Address](luongutnho@hotmail.com) 
 
+![](https://i.imgur.com/waxVImv.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
