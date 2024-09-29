@@ -129,6 +129,7 @@ redis-58c4799ccc-qhv2z                1/1     Running   0          72m
 * [Email Address](luongutnho@hotmail.com) 
 
 ![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
